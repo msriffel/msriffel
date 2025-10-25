@@ -38,7 +38,6 @@ Busco transformar ideias em experiências digitais reais — com foco em **arqui
 | 💼 **ClientRech CRM** | Gerenciador de clientes com autenticação e IA | Next.js · Supabase · Tailwind |
 | 🌐 **Portfólio Pessoal** | Site e currículo online | Next.js · GitHub Pages |
 
-> *(Adicione links diretos quando quiser destacar repositórios específicos)*
 
 ---
 
